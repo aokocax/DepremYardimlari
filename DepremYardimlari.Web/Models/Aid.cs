@@ -4,7 +4,7 @@
 
     public class Aid
     {
-        public string MarkaAdı { get; set; }
+        public string MarkaAdi { get; set; }
         public string Tutar { get; set; }
     }
 
