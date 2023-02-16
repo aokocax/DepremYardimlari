@@ -1,6 +1,8 @@
 ﻿using DepremYardimlari.Web.Models;
 using DepremYardimlari.Web.Services;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System.Diagnostics;
 
 namespace DepremYardimlari.Web.Controllers
@@ -8,14 +10,23 @@ namespace DepremYardimlari.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public HomeController(IWebHostEnvironment webHostEnvironment)
         {
-            _logger = logger;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         public IActionResult Index()
         {
+            string webRootPath = _webHostEnvironment.WebRootPath;
+            string contentRootPath = _webHostEnvironment.ContentRootPath;
+
+            string path = "";
+            path = Path.Combine(webRootPath, "aids.json");
+            var content=System.IO.File.ReadAllText(path);
+            //or path = Path.Combine(contentRootPath , "wwwroot" ,"CSS" );
+            //var content =Server
+            ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
             return View();
         }
 

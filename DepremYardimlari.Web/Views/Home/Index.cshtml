@@ -1,7 +1,11 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
-}
 
+}
+@{
+
+}
 
 <div class="content-page">
     <div class="content">
@@ -9,10 +13,10 @@
         <!-- Start Content-->
         <div class="container-fluid">
 
-         
+
 
             <div class="row mt-4">
-               
+
                 <div class="col-xl-12 ">
                     <div class="card">
                         <div class="card-body">
@@ -47,22 +51,22 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>LCWaikiki</td>
-                                            <td>Nakdi</td>
-                                            <td>200.000.000TL</td>
-                                            <td>Taahhüt</td>
-                                            <td>TV</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2</td>
-                                            <td>Adminto Frontend v1</td>
-                                            <td>01/01/2017</td>
-                                            <td>26/04/2017</td>
-                                            <td><span class="badge bg-success">Released</span></td>
-                                            <td>Adminto admin</td>
-                                        </tr>
+                                        @{
+                                            var i = 1;
+                                            foreach (var item in ((List < Aid > )ViewBag.Data))
+                                            {
+                                                 <tr>
+                                                    <td>@(i++)</td>
+                                                    <td>@item.MarkaAdı</td>
+                                                    <td>Nakdi</td>
+                                                    <td>@item.Tutar</td>
+                                                    <td>Taahhüt</td>
+                                                    <td>TV</td>
+                                             </tr>
+                                            }
+                                        }
+                                       
+                                       
                                         
 
                                     </tbody>
