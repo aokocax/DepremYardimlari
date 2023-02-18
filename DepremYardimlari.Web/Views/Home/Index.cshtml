@@ -1,7 +1,9 @@
 ﻿
 @{
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
-
+    var aids = ((List<Aid>)ViewBag.Data);
+    var sektors = aids.GroupBy(p => p.Sektor).Select(p => p.Key).ToList();
+    ViewBag.Sektors = sektors;
 }
 @{
 
@@ -44,8 +46,9 @@
                                         <tr>
                                             <th>#</th>
                                             <th>Marka Adı</th>
+                                            <th>Sektör</th>
                                             <th>Yardım Türü</th>
-                                            <th>Tarih</th>
+                                            <th>Tutar</th>
                                             <th>Durum</th>
                                             <th>Kaynak</th>
                                         </tr>
@@ -53,13 +56,14 @@
                                     <tbody>
                                         @{
                                             var i = 1;
-                                            foreach (var item in ((List < Aid > )ViewBag.Data))
+                                            foreach (var item in aids.OrderByDescending(p=>p.Tutar))
                                             {
                                                  <tr>
                                                     <td>@(i++)</td>
-                                                    <td><a href="">@item.MarkaAdi</a></td>
-                                                    <td>Nakdi</td>
-                                                    <td><strong style="color:white">@item.Tutar</strong></td>
+                                                    <td><a href="">@item.Marka</a></td>
+                                                    <td>@item.Sektor</td>
+                                                    <td>@item.Tur</td>
+                                                    <td><strong style="color:white">@item.Tutar.ToString("#,##0")</strong></td>
                                                     <td>Taahhüt</td>
                                                     <td>TV</td>
                                              </tr>
