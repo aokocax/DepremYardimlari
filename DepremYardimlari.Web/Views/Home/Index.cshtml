@@ -2,9 +2,8 @@
 @{
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
     var aids = ((List<Aid>)ViewBag.Data);
-    var sektors = aids.GroupBy(p => p.Sektor).Select(p => p.Key).ToList();
-    ViewBag.Sektors = sektors;
-}
+
+   }
 @{
 
 }

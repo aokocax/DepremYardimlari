@@ -26,7 +26,14 @@ namespace DepremYardimlari.Web.Controllers
             var content=System.IO.File.ReadAllText(path);
             //or path = Path.Combine(contentRootPath , "wwwroot" ,"CSS" );
             //var content =Server
-            ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
+            if (String.IsNullOrEmpty(sektor))
+                ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
+            else
+            {
+                var aids= JsonConvert.DeserializeObject<List<Aid>>(content).ToList().Where(p => p.Sektor == sektor);
+                ViewBag.Data = aids;
+            }
+             
             return View();
         }
 
