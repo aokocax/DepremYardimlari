@@ -5,53 +5,64 @@
     ViewData["Title"] = "Contact";
 }
 <!--Contact Section-->
-<section class="contact-section margin-top-50">
-    <div class="auto-container">
+<div class="content-page">
+    <div class="content">
 
-        <!--Form Container-->
-        <div class="form-container wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms">
-            <div class="title-text">Contact Info</div>
+        <!-- Start Content-->
+        <div class="container-fluid">
 
-            <!--Form-->
-            <div class="form">
-                <form id="contact-form" >
-                    <div class="row clearfix">
-                        <div class="form-group col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" id="username" value="" placeholder="Name">
-                        </div>
-                        <div class="form-group col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <input type="email" id="email" value="" placeholder="Email">
-                        </div>
-                        <div class="form-group col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                            <input type="text" id="phone" value="" placeholder="Phone">
-                        </div>
-                        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <textarea id="message" placeholder="Message.."></textarea>
-                        </div>
+            <div class="row">
+                <div class="col-lg-12 mt-4">
+                    <div class="card">
+                        <div class="card-body">
+                           
+                            <div class="row">
+                                <h4 class="header-title mb-3">İletişim</h4>
+                                <form id="contact-form" class="row">
+                                    <div class="col-lg-6">
 
-                        <div class="form-group text-center margin-top-30 col-lg-12 col-md-6 col-sm-6 col-xs-12">
-                            <button type="button" id="bnt-contact" class="theme-btn">Send</button>
+                                        <div class="form-floating mb-3">
+                                            <input type="text" class="form-control" id="name" placeholder="name@example.com">
+                                            <label for="floatingInput">Ad Soyad</label>
+                                        </div>
+                                        <div class="form-floating mb-3">
+                                            <input type="email" class="form-control" id="email" placeholder="name@example.com">
+                                            <label for="floatingInput">E-posta Adresi</label>
+                                        </div>
+
+                                        <div class="form-floating mb-3">
+                                            <input type="text" class="form-control" id="phone" placeholder="name@example.com">
+                                            <label for="floatingInput">Telefon</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+
+                                        <div class="form-floating">
+                                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                                            <label for="floatingTextarea2">Mesaj</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-group text-center margin-top-30 col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                                            <button type="button" id="bnt-contact" class="btn btn-primary waves-effect waves-light">Send</button>
+                                        </div>
+                                    </div>
+                                </form>
+                             <div id="contact-result" class="d-none">
+                    Teşekkürler en kısa zamanda size dönüş yapmaya çalışacağız.
+                </div>
+                            </div>
                         </div>
                     </div>
-
-                </form>
-                <div id="">
-                    To reach me: 
-                    Ahmet Oğuz Koca <br />
-                    <a href="https://www.linkedin.com/in/aokocax/">Linkedin</a><br />
-                    <a href="https://twitter/aokocax/">Twitter</a><br />
-                    Phone Number: <a href="tel:+905510157290">+905510157290</a><br />
-                    Email address: aoguzkoca{at}gmail.com<br />
-
-                </div>
-                <div id="contact-result" class="d-none">
-                    Thank you. We will back you as soon as possible!.
                 </div>
             </div>
+
+            
         </div>
 
     </div>
-</section>
+</div>
+
 @section scripts
     {
         <script>
@@ -61,7 +72,7 @@
             var name = $("#username").val();
             var phone = $("#phone").val();
             var email = $("#email").val();
-            var message = $("#message").val();
+            var message = $("#floatingTextarea2").val();
             var message_from = $("#message-from").val();
             $.post("/home/contact", { name: name, company: phone, email: email, message: message, messageFrom: message_from }, function (data) {
                 if (data.success) {
