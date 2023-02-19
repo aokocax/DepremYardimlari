@@ -17,6 +17,8 @@
 
         public string Sektor { get; set; }
         public string Tur { get; set; }
+
+       
 	}
 
 }

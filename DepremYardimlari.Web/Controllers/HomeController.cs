@@ -30,7 +30,8 @@ namespace DepremYardimlari.Web.Controllers
                 ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
             else
             {
-                var aids= JsonConvert.DeserializeObject<List<Aid>>(content).ToList().Where(p => p.Sektor == sektor);
+                var aids= JsonConvert.DeserializeObject<List<Aid>>(content)
+                    .ToList().Where(p => p.Sektor == sektor).ToList();
                 ViewBag.Data = aids;
             }
              
