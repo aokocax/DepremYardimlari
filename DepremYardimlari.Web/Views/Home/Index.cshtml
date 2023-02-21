@@ -1,9 +1,10 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
     var aids = ((List<Aid>)ViewBag.Data);
+    var totalAid = ViewBag.TotalAid;
+    var companies = ViewBag.CompanyCount;
 
-   }
+}
 @{
 
 }
@@ -20,7 +21,7 @@
                             <p class="text-white text-black">
                                 6 Şubat 2023 tarihinde ülkemizde meydana gelen deprem felaketinin ardından
                                 1.000.000 TL ve üzerinde yardım taahhütünde bulunan şirketleri kategorik olarak listelemek için açılmıştır.
-                                
+
                                 Gördüğünüz hataları ve yeni taahhütleri iletişim bölümünden bize iletebilirsiniz.
 
                             </p>
@@ -31,17 +32,17 @@
                     </div>
                 </div>
             </div>
-          
+
             <div class="row mt-4">
 
                 <div class="col-xl-12 ">
                     <div class="card">
                         <div class="card-body">
                             <div class="dropdown float-end">
-                               @* <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
+                                @* <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                     <i class="mdi mdi-dots-vertical"></i>
-                                </a>
-                                <div class="dropdown-menu dropdown-menu-end">
+                                    </a>
+                                    <div class="dropdown-menu dropdown-menu-end">
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item">Action</a>
                                     <!-- item-->
@@ -50,10 +51,10 @@
                                     <a href="javascript:void(0);" class="dropdown-item">Something else</a>
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item">Separated link</a>
-                                </div>*@
+                                    </div>*@
                             </div>
 
-                            <h4 class="header-title mt-0 mb-3">Deprem Yardımı Yapan Markalar</h4>
+                            <h4 class="header-title mt-0 mb-3">Deprem Yardımı Yapan Markalar | Toplam Bağıs = @totalAid.ToString("#,##0") | Toplam Bağışcı  = @companies </h4>
 
                             <div class="table-responsive">
                                 <table class="table table-hover mb-0">
@@ -71,19 +72,20 @@
                                     <tbody>
                                         @{
                                             var i = 1;
-                                            foreach (var item in aids.OrderByDescending(p=>p.Tutar))
+                                            foreach (var item in aids.OrderByDescending(p => p.Tutar))
                                             {
-                                                 <tr>
+                                                <tr>
                                                     <td>@(i++)</td>
                                                     <td><a href="">@item.Marka</a></td>
                                                     <td>@item.Sektor</td>
                                                     <td>@item.Tur</td>
                                                     <td><strong style="color:white">@item.Tutar.ToString("#,##0")</strong> @item.Birim</td>
                                                     <td>Taahhüt</td>
-                                                    <td>@{
+                                                    <td>
+                                                        @{
                                                             if (!string.IsNullOrEmpty(item.Kaynak))
                                                             {
-                                                                if (item.Kaynak.IndexOf("http")!=-1)
+                                                                if (item.Kaynak.IndexOf("http") != -1)
                                                                 {
                                                                     <a href="@item.Kaynak" target="_blank">Bağlantı</a>
                                                                 }
@@ -92,16 +94,16 @@
                                                                     <text>@item.Kaynak</text>
                                                                 }
                                                             }
-                                                            
+
                                                         }
-                                                            
+
                                                     </td>
-                                             </tr>
+                                                </tr>
                                             }
                                         }
-                                       
-                                       
-                                        
+
+
+
 
                                     </tbody>
                                 </table>
@@ -117,7 +119,7 @@
         </div> <!-- container -->
 
     </div> <!-- content -->
-   
+
 
 </div>
 

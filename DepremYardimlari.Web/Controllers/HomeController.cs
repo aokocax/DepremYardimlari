@@ -26,18 +26,23 @@ namespace DepremYardimlari.Web.Controllers
             var content=System.IO.File.ReadAllText(path);
             //or path = Path.Combine(contentRootPath , "wwwroot" ,"CSS" );
             //var content =Server
+            List<Aid> aidList;
             if (String.IsNullOrEmpty(sektor))
-                ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
+                aidList = JsonConvert.DeserializeObject<List<Aid>>(content);
             else
             {
-                var aids= JsonConvert.DeserializeObject<List<Aid>>(content)
-                    .ToList().Where(p => p.Sektor == sektor).ToList();
-                ViewBag.Data = aids;
+                aidList = JsonConvert.DeserializeObject<List<Aid>>(content)
+                   .ToList().Where(p => p.Sektor == sektor).ToList();
+
             }
-             
+            ViewBag.Data = aidList;
+            ViewBag.TotalAid = aidList.Sum(p => p.Tutar);
+            ViewBag.CompanyCount = (from aid in aidList
+                                    select aid.Marka).Count();
             return View();
         }
 
+      
         public IActionResult Privacy()
         {
             return View();
