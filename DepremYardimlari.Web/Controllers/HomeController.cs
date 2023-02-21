@@ -9,6 +9,8 @@ namespace DepremYardimlari.Web.Controllers
 {
     public class HomeController : Controller
     {
+        const float dolarExc = 18.87f;
+        const float euroExc = 20.11f;
         private readonly ILogger<HomeController> _logger;
         private readonly IWebHostEnvironment _webHostEnvironment;
         public HomeController(IWebHostEnvironment webHostEnvironment)
@@ -20,21 +22,40 @@ namespace DepremYardimlari.Web.Controllers
         {
             string webRootPath = _webHostEnvironment.WebRootPath;
             string contentRootPath = _webHostEnvironment.ContentRootPath;
-
+            var avmList=new List<AidViewModel>();
+            var aidList=new List<Aid>();
             string path = "";
-            path = Path.Combine(webRootPath, "aids.json");
+            path = Path.Combine(webRootPath, "aid_f1.json");
             var content=System.IO.File.ReadAllText(path);
-            //or path = Path.Combine(contentRootPath , "wwwroot" ,"CSS" );
-            //var content =Server
+       
             if (String.IsNullOrEmpty(sektor))
-                ViewBag.Data = JsonConvert.DeserializeObject<List<Aid>>(content);
+            {
+                aidList = JsonConvert.DeserializeObject<List<Aid>>(content);
+            }
+                
             else
             {
-                var aids= JsonConvert.DeserializeObject<List<Aid>>(content)
+                aidList= JsonConvert.DeserializeObject<List<Aid>>(content)
                     .ToList().Where(p => p.Sektor == sektor).ToList();
-                ViewBag.Data = aids;
+               
             }
-             
+            foreach (var item in aidList)
+            {
+                avmList.Add(new AidViewModel
+                {
+                    Marka = item.Marka,
+                    Tutar = item.Tutar,
+                    Birim = item.Birim,
+                    Durum = item.Durum,
+                    Kaynak = item.Kaynak,
+                    Detay = item.Detay,
+                    Sektor = item.Sektor,
+                    Tur = item.Tur,
+                    NetTutar = item.Birim == "TL" ? item.Tutar : item.Birim == "$" ? item.Tutar * dolarExc : item.Tutar * euroExc
+                });
+            }
+
+            ViewBag.Data = avmList;
             return View();
         }
 

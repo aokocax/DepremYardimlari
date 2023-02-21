@@ -1,9 +1,9 @@
 ﻿
 @{
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
-    var aids = ((List<Aid>)ViewBag.Data);
-
-   }
+    var aids = ((List<AidViewModel>)ViewBag.Data);
+   ViewBag.Sektors= aids.Select(x => x.Sektor).Distinct().ToList();
+}
 @{
 
 }
@@ -19,7 +19,7 @@
                         <blockquote class="card-bodyquote mb-0">
                             <p class="text-white text-black">
                                 6 Şubat 2023 tarihinde ülkemizde meydana gelen deprem felaketinin ardından
-                                1.000.000 TL ve üzerinde yardım taahhütünde bulunan şirketleri kategorik olarak listelemek için açılmıştır.
+                                1.000.000 TL ve üzerinde yardım beyanında bulunan şirketleri kategorik olarak listelemek için açılmıştır.
                                 
                                 Gördüğünüz hataları ve yeni taahhütleri iletişim bölümünden bize iletebilirsiniz.
 
@@ -64,22 +64,24 @@
                                             <th>Sektör</th>
                                             <th>Yardım Türü</th>
                                             <th>Tutar</th>
-                                            <th>Durum</th>
+                                         
                                             <th>Kaynak</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         @{
                                             var i = 1;
-                                            foreach (var item in aids.OrderByDescending(p=>p.Tutar))
+                                            foreach (var item in aids
+                                                
+                                                .OrderByDescending(p=>p.NetTutar))
                                             {
                                                  <tr>
                                                     <td>@(i++)</td>
                                                     <td><a href="">@item.Marka</a></td>
                                                     <td>@item.Sektor</td>
                                                     <td>@item.Tur</td>
-                                                    <td><strong style="color:white">@item.Tutar.ToString("#,##0")</strong> @item.Birim</td>
-                                                    <td>Taahhüt</td>
+                                                    <td><strong style="color:white">@item.Tutar.ToString("#,##0") @item.Birim</strong></td>
+                                                   
                                                     <td>@{
                                                             if (!string.IsNullOrEmpty(item.Kaynak))
                                                             {
@@ -99,6 +101,18 @@
                                              </tr>
                                             }
                                         }
+                                        <tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td>Toplam</td>
+                                            <td><strong style="color:white">@aids.Sum(p=>p.NetTutar).ToString("#,##0") TL</strong></td>
+
+                                            <td>
+                                             
+
+                                            </td>
+                                        </tr>
                                        
                                        
                                         

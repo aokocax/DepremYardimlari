@@ -83,51 +83,29 @@
                             <div class="row">
                                 <div class="col-lg-4">
                                     <div>
-                                        <a href="/?sektor=Banka/Finans" class="dropdown-item">Banka/Finans</a>
-                                        <a href="/?sektor=Denizcilik" class="dropdown-item">Denizcilik</a>
-                                        <a href="/?sektor=E-ticaret" class="dropdown-item">E-ticaret</a>
-                                        <a href="/?sektor=Eğitim" class="dropdown-item">Eğitim</a>
-                                        <a href="/?sektor=Elektronik" class="dropdown-item">Elektronik</a>
-                                        <a href="/?sektor=Enerji/Madencilik" class="dropdown-item">Enerji/Madencilik</a>
-                                        <a href="/?sektor=Ev ve Dekorasyon" class="dropdown-item">Ev ve Dekorasyon</a>
-                                        <a href="/?sektor=Gayrimenkul" class="dropdown-item">Gayrimenkul</a>
-                                        <a href="/?sektor=Giyim" class="dropdown-item">Giyim</a>
-                                        <a href="/?sektor=Gıda" class="dropdown-item">Gıda</a>
-
-                                        <a href="/?sektor=Havacılık" class="dropdown-item">Havacılık</a>
+                                        @foreach (var item in sektors.OrderBy(p=>p).Skip(0).Take(12))
+                                        {
+                                            <a href="/?sektor=@item" class="dropdown-item">@item</a>
+                                        }
+                                     
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div>
                                 
-                                        <a href="/?sektor=Hizmet" class="dropdown-item">Hizmet</a>
-                                        <a href="/?sektor=Holding" class="dropdown-item">Holding</a>
-                                        <a href="/?sektor=İnşaat" class="dropdown-item">İnşaat</a>
-                                        <a href="/?sektor=Kozmetik" class="dropdown-item">Kozmetik</a>
-                                        <a href="/?sektor=Lojistik" class="dropdown-item">Lojistik</a>
-                                        <a href="/?sektor=Medya" class="dropdown-item">Medya</a>
-                                        <a href="/?sektor=Mobilya" class="dropdown-item">Mobilya</a>
-                                        <a href="/?sektor=Mücevherat/Kuyum" class="dropdown-item">Mücevherat/Kuyum</a>
-                                        <a href="/?sektor=Otomotiv" class="dropdown-item">Otomotiv</a>
-                                        <a href="/?sektor=Perakende" class="dropdown-item">Perakende</a>
-                                        <a href="/?sektor=Sağlık" class="dropdown-item">Sağlık</a>
+                                        @foreach (var item in sektors.OrderBy(p => p).Skip(12).Take(12))
+                                        {
+                                            <a href="/?sektor=@item" class="dropdown-item">@item</a>
+                                        }
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div>
                                        
-                                        <a href="/?sektor=Savunma" class="dropdown-item">Savunma</a>
-                                        <a href="/?sektor=Seyahat" class="dropdown-item">Seyahat</a>
-                                        <a href="/?sektor=Sigorta" class="dropdown-item">Sigorta</a>
-                                        <a href="/?sektor=Sigortacılık" class="dropdown-item">Sigortacılık</a>
-                                        <a href="/?sektor=Tarım" class="dropdown-item">Tarım</a>
-                                        <a href="/?sektor=Teknoloji" class="dropdown-item">Teknoloji</a>
-                                        <a href="/?sektor=Telekomünikasyon" class="dropdown-item">Telekomünikasyon</a>
-                                        <a href="/?sektor=Turizm" class="dropdown-item">Turizm</a>
-                                        <a href="/?sektor=Yapı/İnşaat" class="dropdown-item">Yapı/İnşaat</a>
-                                        <a href="/?sektor=Yeme - İçme" class="dropdown-item">Yeme - İçme</a>
-                                        <a href="/?" class="dropdown-item text-bold">HEPSİ</a>
-
+                                        @foreach (var item in sektors.OrderBy(p => p).Skip(24).Take(12))
+                                        {
+                                            <a href="/?sektor=@item" class="dropdown-item">@item</a>
+                                        }
                                     </div>
                                 </div>
                             </div>

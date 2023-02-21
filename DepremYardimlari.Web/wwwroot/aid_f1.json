@@ -1,0 +1,2261 @@
+[
+  {
+    "Marka": "Merkez Bankası",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 30000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ziraat Bankası",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 20000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Vakıfbank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 12000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Halk Bank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 7000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Turkcell",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 3500000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Cengiz Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 3000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Baykar Teknoloji",
+    "Sektor": "Savunma",
+    "Tur": "Nakdi",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Borsa İstanbul",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "THY",
+    "Sektor": "Havacılık",
+    "Tur": "Nakdi",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Türk Telekom",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Türkiye Sigorta",
+    "Sektor": "Sigortacılık",
+    "Tur": "Nakdi",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Doğuş Grubu",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Emlak Katılım",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Emlak Konut GYO",
+    "Sektor": "İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "İş Bankası",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.isbank.com.tr/bankamizi-taniyin/is-bankasi-grubundan-deprem-bolgesine-10-milyar-turk-lirasi-destek",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Vakıf Katılım",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ziraat Katılım",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kalyon Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 950000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Turkuvaz Medya",
+    "Sektor": "Medya",
+    "Tur": "Nakdi",
+    "Tutar": 700000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Akbank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 650000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CorMsGlLAt0/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Yapı Kredi",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 580000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.yapikredi.com.tr/deprem-bolgesi-bilgilendirmeleri",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Denizbank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 350000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosL-dzotE0/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "QNB Finansbank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 350000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Cor3mlSouiL/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Atasay",
+    "Sektor": "Mücevherat/Kuyum",
+    "Tur": "Nakdi",
+    "Tutar": 300000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Trendyol",
+    "Sektor": "E-ticaret",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 300000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Couk0-9tKAG/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "TEB",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 250000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosYDYNrxTl/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kuveyt Türk",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 200000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Coc4mMTMezq/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "LC Waikiki",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 200000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Yıldız Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 175000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CoZkAIbq44a/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "İlamet Metal",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 175000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çelikler Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 150000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Hayat Kimya",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 130000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CokMmaWLIFQ/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Rixos Hotels",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi",
+    "Tutar": 120000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Filli Boya",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 102500000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ahlatçı Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 100000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Botaş International",
+    "Sektor": "Enerji",
+    "Tur": "Nakdi",
+    "Tutar": 100000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Limak Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 100000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Petrol Ofisi",
+    "Sektor": "Enerji",
+    "Tur": "Ayni (akaryakıt)",
+    "Tutar": 100000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.petrolofisi.com.tr/haberler-ve-duyurular/petrol-ofisinden-deprem-seferberligi",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Aselsan",
+    "Sektor": "Savunma",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 84000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Emir Varlık Yönetim / Garanti Barter",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 75000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Orient World",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 60000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Türksat",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 60000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Anex Turizm",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Astaş Holding",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Boyner Grup",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Demirören Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kutlu Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kibar Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 50000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Tay Grup",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 40000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Socar Türkiye",
+    "Sektor": "Enerji",
+    "Tur": "Nakdi",
+    "Tutar": 35000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Oses Çiğköfte",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi",
+    "Tutar": 35000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Akmercan Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Akzirve Gayrimenkul",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Alagöz Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Zorlu Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özdilek Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Taşpınar Mağazacılık",
+    "Sektor": "Perakende",
+    "Tur": "Nakdi",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "PepsiCo Türkiye",
+    "Sektor": "Gıda",
+    "Tur": "Ayni (temel gıda)",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "Bağlantı",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ece Holding",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Huzur Plastik",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kıran Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kömür İşletmeleri",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Papara",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Avrupa Konutları",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bakgör İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çalık Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Metgün Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özdilek Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Torunlar Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bakyapı",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Nadir Metal",
+    "Sektor": "Mücevherat/Kuyum",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Sancak Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Alshaya Group/Starbucks",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 19000000,
+    "Birim": "TL",
+    "Kaynak": "Bağlantı",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Korea Telecom",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 15000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Scala Medya",
+    "Sektor": "Medya",
+    "Tur": "Nakdi",
+    "Tutar": 15000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Torku",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 15000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Alpay Mermer",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 15000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Yılkanur İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 15000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mesa Holding",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 13000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çatkaya Gayrimenkul",
+    "Sektor": "Gayrimenkul",
+    "Tur": "Nakdi",
+    "Tutar": 12000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Başkent İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 11000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Atış Yapı",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ayaydın Grubu / İpekyol",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Boğaziçi Savunma",
+    "Sektor": "Savunma",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çetinkaya",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "DAP Yapı",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "ETİ",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kuzu Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ölmez Madencilik",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Selim İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Vitamin Gübre Tarım",
+    "Sektor": "Tarım",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Alders Tekstil",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "EPİAŞ",
+    "Sektor": "Enerji",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gamador İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Sina Pırlanta",
+    "Sektor": "Mücevherat/Kuyum",
+    "Tur": "Nakdi",
+    "Tutar": 8000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Altur Turizm",
+    "Sektor": "Seyahat",
+    "Tur": "Nakdi",
+    "Tutar": 7000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Yeşilyurt Demir Çelik",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 7000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Belbeton",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Besa Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kuzey Marmara Sanayi ve Teknoloji Vadisi",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Can Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ergünler Lojistik",
+    "Sektor": "Lojistik",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "FLO",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Koton",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Orkun Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özyurtlar Holding",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Uzmar Denizcilik",
+    "Sektor": "Denizcilik",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gala Teks",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kaltun Maden",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kent Şirketler",
+    "Sektor": "İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Redstone Gayrimenkul",
+    "Sektor": "Gayrimenkul",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "SDF Group",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Skechers Türkiye",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Sunny/Atmaca",
+    "Sektor": "Elektronik",
+    "Tur": "Nakdi",
+    "Tutar": 5000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Dilan Polat Kliniği",
+    "Sektor": "Sağlık",
+    "Tur": "Nakdi",
+    "Tutar": 3250000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Azim Grup",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 3000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Maher Holding",
+    "Sektor": "Sigorta",
+    "Tur": "Nakdi",
+    "Tutar": 3000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Tavuk Dünyası",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi",
+    "Tutar": 3000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Abay Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 3000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Akdemir Teknik Makine",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 3000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gizia",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 2910000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Dünya Ticaret Merkezi",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "GCM Yatırım",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Poll Production",
+    "Sektor": "Medya",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "S.C. Kozmetik",
+    "Sektor": "Kozmetik",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çilek Konsept",
+    "Sektor": "Mücevherat/Kuyum",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çotanak Yağ",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Dinç Şirketler Grubu",
+    "Sektor": "Hizmet",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Eraydın Grup",
+    "Sektor": "Hizmet",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "MBM İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Medine Kıymetli Madenler",
+    "Sektor": "Mücevherat/Kuyum",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Orijinal Metal Ürünleri",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Şanlıtürk Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Smart Enerji",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Zinca Metal",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Diler Grup",
+    "Sektor": "Medya",
+    "Tur": "Nakdi",
+    "Tutar": 1350000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Artı Değer İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bambi Yatak",
+    "Sektor": "Mobilya",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bilfen Okulları",
+    "Sektor": "Eğitim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Demir Kyrgyz International Bank",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "GKN Kargo",
+    "Sektor": "Lojistik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "İpek Salça",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Nora Elektrik Malzemeleri",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özyapıcılar Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Seyidoğlu Gıda",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Akansu Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Armada Praxis İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Assu",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Astor Enerji",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Avşar Sağlık Hizmetleri",
+    "Sektor": "Sağlık",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bonna Porselen",
+    "Sektor": "Ev ve Dekorasyon",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çağ Un",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çağlar Madencilik",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çanakçılar Şirketler",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Cebiroğlu İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Çevre Koleji",
+    "Sektor": "Eğitim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Defaş Madencilik",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Dürümcü Emmi",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ercan Orman Ürünleri",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Estetik International",
+    "Sektor": "Sağlık",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Genç Demiryolu Asfalt",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gözde Hastanesi",
+    "Sektor": "Sağlık",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gülle Tekstil",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Gürsu Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Güzel Metal",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Hicri Ercili Denizcilik",
+    "Sektor": "Denizcilik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "İttifak Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kepi Mobilya",
+    "Sektor": "Mobilya",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "KFZ Büyük Filo",
+    "Sektor": "Lojistik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kömürcüoğlu Madencilik",
+    "Sektor": "Madencilik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Kuruçayırlı Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mercity İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mert Holding",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Metropol Turizm",
+    "Sektor": "Seyahat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Midpoint",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mutlucan Şeker",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Network Global Lojistik",
+    "Sektor": "Lojistik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özbek İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Özyapıcılar Grup",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Peynirci Baba",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Revar Otomotiv",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Tavusbay Metal",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Toprak Turizm",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Topuzlar Hafriyat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Tudors Gömlek",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Usta İnşaat",
+    "Sektor": "Yapı/İnşaat",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Vakko",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Yataş",
+    "Sektor": "Ev ve Dekorasyon",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Chakra",
+    "Sektor": "Ev ve Dekorasyon",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Roman",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Roman",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "TV Yayını",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Amazon",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 600000,
+    "Birim": "$",
+    "Kaynak": "https://www.aboutamazon.com/news/community/how-amazon-is-helping-communities-impacted-by-the-earthquake-in-turkiye-and-syria",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Allianz",
+    "Sektor": "Sigortacılık",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "€",
+    "Kaynak": "https://www.aa.com.tr/tr/asrin-felaketi/allianzdan-depremden-etkilenen-bolgeler-icin-6-milyon-avro-destek/2813712",
+    "Suriye": ""
+  },
+  {
+    "Marka": "LG",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Cow4-FjIk23/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bayer Türkiye",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi ve Ayni (ilaç)",
+    "Tutar": 1000000,
+    "Birim": "€",
+    "Kaynak": "https://www.instagram.com/p/Cophcr8NjH2/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Binance",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 94000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Cownyx9sTd2/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Pegasus",
+    "Sektor": "Havacılık",
+    "Tur": "Nakdi",
+    "Tutar": 8000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.flypgs.com/basin-odasi/duyurular/buradayiz",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Uber",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 100000,
+    "Birim": "$",
+    "Kaynak": "https://www.uber.com/en-TR/newsroom/support-for-turkey/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "McDonald's",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi ve Ayni (yemek)",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/supporting-turkey-syria.html",
+    "Suriye": ""
+  },
+  {
+    "Marka": "BP Türkiye / Castrol",
+    "Sektor": "Enerji",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 5000000,
+    "Birim": "$",
+    "Kaynak": "https://twitter.com/bp_turkey/status/1623660491020111873",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Tatilbudur",
+    "Sektor": "Turizm",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "https://tatilajandam.com/tatilbudurdan-depremzedelere-destek/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Meta / Facebook",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 1100000,
+    "Birim": "$",
+    "Kaynak": "https://about.fb.com/news/2023/02/helping-those-affected-by-earthquakes-in-turkiye-and-syria/",
+    "Suriye": "$"
+  },
+  {
+    "Marka": "Lego",
+    "Sektor": "Oyuncak",
+    "Tur": "Nakdi",
+    "Tutar": 800000,
+    "Birim": "$",
+    "Kaynak": "https://www.linkedin.com/posts/lego-group_our-thoughts-are-with-all-the-children-and-activity-7029499922101993472-vvxO",
+    "Suriye": "$"
+  },
+  {
+    "Marka": "Avalanche",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://tr.investing.com/news/cryptocurrency-news/avalanche-deprem-icin-1-milyon-dolar-bagsta-bulundu-2429722",
+    "Suriye": ""
+  },
+  {
+    "Marka": "BASF",
+    "Sektor": "Kimya",
+    "Tur": "Nakdi",
+    "Tutar": 500000,
+    "Birim": "€",
+    "Kaynak": "https://www.basf.com/global/en/who-we-are/sustainability/we-value-people-and-treat-them-with-respect/societal-commitment/basf-stiftung/we-fund/projects/earthquake2023.html",
+    "Suriye": "€"
+  },
+  {
+    "Marka": "Biontech",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi",
+    "Tutar": 500000,
+    "Birim": "€",
+    "Kaynak": "https://investors.biontech.de/news-releases/news-release-details/statement-humanitarian-aid-turkiye-syria-and-ukraine",
+    "Suriye": "€"
+  },
+  {
+    "Marka": "Boeing",
+    "Sektor": "Havacılık",
+    "Tur": "Nakdi",
+    "Tutar": 500000,
+    "Birim": "$",
+    "Kaynak": "https://boeing.mediaroom.com/2023-02-09-Boeing-Donates-500,000-USD-to-Earthquake-Recovery-and-Relief-Efforts-in-Turkey",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bosch Türkiye",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 2500000,
+    "Birim": "€",
+    "Kaynak": "https://www.instagram.com/p/CofhV2krZZC/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Coca-Cola Türkiye",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 30000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Coc8GWwMphJ/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Deutsche Telekom",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "€",
+    "Kaynak": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-makes-calls-to-turkey-and-syria-free-of-charge-1025864",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Chobani",
+    "Sektor": "Gıda",
+    "Tur": "Nakdi",
+    "Tutar": 2000000,
+    "Birim": "$",
+    "Kaynak": "https://twitter.com/hamdiulukaya/status/1622822499208597505",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Fiba Grubu",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 350000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosGTLHIDgJ/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Marks & Spencer UK",
+    "Sektor": "Perakende",
+    "Tur": "Nakdi",
+    "Tutar": 50000,
+    "Birim": "£",
+    "Kaynak": "https://www.grocerygazette.co.uk/2023/02/08/tesco-and-ms-earthquake/",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Tesco",
+    "Sektor": "Perakende",
+    "Tur": "Nakdi",
+    "Tutar": 100000,
+    "Birim": "£",
+    "Kaynak": "https://www.grocerygazette.co.uk/2023/02/08/tesco-and-ms-earthquake/",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Netflix Türkiye",
+    "Sektor": "Medya",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Cocmttys69J/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "PUBG / Krafton Türkiye",
+    "Sektor": "Oyun",
+    "Tur": "Nakdi",
+    "Tutar": 100000,
+    "Birim": "$",
+    "Kaynak": "https://twitter.com/PUBG/status/1623635320070877185",
+    "Suriye": ""
+  },
+  {
+    "Marka": "ING Türkiye",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi ve Ayni (acil ihtiyaç)",
+    "Tutar": 3000000,
+    "Birim": "$",
+    "Kaynak": "https://www.instagram.com/p/CoZpsUHon4k/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "ICBC Turkey",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.aa.com.tr/tr/sirkethaberleri/finans/icbc-turkeyden-deprem-bolgesine-1-milyon-tl-destek/678591",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Toyota Türkiye",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 20000000,
+    "Birim": "TL",
+    "Kaynak": "https://twitter.com/Toyota_Turkiye/status/1623966965021741057",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Vodafone Türkiye",
+    "Sektor": "Telekomünikasyon",
+    "Tur": "Nakdi",
+    "Tutar": 25000000,
+    "Birim": "TL",
+    "Kaynak": "https://twitter.com/VodafoneTR/status/1622627969008009222",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Hyundai Türkiye",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CoeqaoOO1ao/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Hyundai Global",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 1800000,
+    "Birim": "$",
+    "Kaynak": "https://www.instagram.com/p/CoeqaoOO1ao/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mercedes-Benz",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "€",
+    "Kaynak": "https://twitter.com/MercedesBenz/status/1622963852819197954",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Sabancı Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosM4ZWs7Ym/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Koç Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 2000000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Corx3oEtgb3/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Eczacıbaşı Topluluğu",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 300000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosOMVRsQ30/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Doğan Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 150000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CouX5anLihb/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Borusan Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 200000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CosolGlKwm9/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Anadolu Grubu",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 130000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Cot63sErsw3/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Zorlu Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 1000000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CoucFggICqR/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Bilkent Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/Coov_f-IplG/?hl=tr",
+    "Suriye": ""
+  },
+  {
+    "Marka": "TAV Havalimanları",
+    "Sektor": "Holding",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 60000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CozWQleo_m6/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Shell Türkiye",
+    "Sektor": "Enerji",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 55000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CofYqC7sGNo/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Volkswagen",
+    "Sektor": "Otomotiv",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "€",
+    "Kaynak": "https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-group-donates-one-million-euros-of-emergency-aid-to-help-those-affected-by-the-earthquake-in-turkey-and-syria-15436",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Johnson & Johnson",
+    "Sektor": "Kozmetik",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://www.jnj.com/johnson-johnson-statement-on-the-earthquakes-in-turkey-and-syria",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Riot Games",
+    "Sektor": "Oyun",
+    "Tur": "Nakdi",
+    "Tutar": 100000,
+    "Birim": "$",
+    "Kaynak": "https://www.instagram.com/p/Coe5eVGqbKc/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "KFC Türkiye",
+    "Sektor": "Yeme - İçme",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CoZxLLRKDX5/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Samsung",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 3000000,
+    "Birim": "$",
+    "Kaynak": "https://www.sammobile.com/news/samsung-donates-usd-3-million-turkey-earthquake-relief/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "H&M",
+    "Sektor": "Giyim",
+    "Tur": "Nakdi",
+    "Tutar": 600000,
+    "Birim": "$",
+    "Kaynak": "https://twitter.com/hmturkiye/status/1623683097421135874",
+    "Suriye": ""
+  },
+  {
+    "Marka": "AbbVie",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://www.linkedin.com/posts/abbvie_our-thoughts-are-with-all-of-those-impacted-activity-7029869095302901760-A3SU",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Novartis",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://www.novartis.com/news/novartis-announces-support-people-affected-earthquake-turkey-and-syria#:~:text=So%20far%2C%20all%20our%20associates,best%20partners%20to%20achieve%20this.",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Gilead Sciences",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://www.linkedin.com/posts/gilead-sciences_as-a-way-to-support-those-impacted-by-monday-activity-7029466367716167680-nUsj",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Sanofi",
+    "Sektor": "İlaç",
+    "Tur": "Nakdi ve Ayni (aşı)",
+    "Tutar": 3000000,
+    "Birim": "$",
+    "Kaynak": "https://www.linkedin.com/posts/sanofi_the-earthquakes-earlier-this-week-have-impacted-activity-7029197072729833472-Rt_M",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "L'Oreal",
+    "Sektor": "Kozmetik",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CodAbWAMQgP/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "IKEA",
+    "Sektor": "Ev ve Dekorasyon",
+    "Tur": "Nakdi ve Ayni",
+    "Tutar": 10000000,
+    "Birim": "€",
+    "Kaynak": "https://www.instagram.com/p/Cop1JgGII4A/",
+    "Suriye": "*"
+  },
+  {
+    "Marka": "Mastercard",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 10000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CocQVSvr2QG/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Pasha Holding",
+    "Sektor": "Holding",
+    "Tur": "Nakdi",
+    "Tutar": 1000000,
+    "Birim": "$",
+    "Kaynak": "https://www.instagram.com/p/CocVDBIjYdN/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Mitsubishi Electric",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 150000,
+    "Birim": "$",
+    "Kaynak": "https://www.mitsubishielectric.com/news/2023/0208.html",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Sephora Türkiye",
+    "Sektor": "Kozmetik",
+    "Tur": "Nakdi",
+    "Tutar": 6000000,
+    "Birim": "TL",
+    "Kaynak": "https://www.instagram.com/p/CofE0ZwDNxf/",
+    "Suriye": ""
+  },
+  {
+    "Marka": "TikTok Türkiye",
+    "Sektor": "Teknoloji",
+    "Tur": "Nakdi",
+    "Tutar": 200000,
+    "Birim": "$",
+    "Kaynak": "https://twitter.com/TikTokTurkey/status/1622909428054863874",
+    "Suriye": ""
+  },
+  {
+    "Marka": "Ethereum",
+    "Sektor": "Banka/Finans",
+    "Tur": "Nakdi",
+    "Tutar": 227000,
+    "Birim": "$",
+    "Kaynak": "https://www.binance.com/en/news/top/7405135",
+    "Suriye": ""
+  }
+]
