@@ -2,6 +2,7 @@
     ViewData["Title"] = "Depremzedeler için hangi firmaların ne kadar bağış yapacağını listeleyen websitesi?";
     var aids = ((List<Aid>)ViewBag.Data);
     var totalAid = ViewBag.TotalAid;
+    var companies = ViewBag.CompanyCount;
 
 }
 @{
@@ -53,7 +54,7 @@
                                     </div>*@
                             </div>
 
-                            <h4 class="header-title mt-0 mb-3">Deprem Yardımı Yapan Markalar | Toplam Bağıs = @totalAid.ToString("#,##0") </h4>
+                            <h4 class="header-title mt-0 mb-3">Deprem Yardımı Yapan Markalar | Toplam Bağıs = @totalAid.ToString("#,##0") | Toplam Bağışcı  = @companies </h4>
 
                             <div class="table-responsive">
                                 <table class="table table-hover mb-0">

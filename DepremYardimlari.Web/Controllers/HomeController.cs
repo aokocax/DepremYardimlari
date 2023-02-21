@@ -36,21 +36,13 @@ namespace DepremYardimlari.Web.Controllers
 
             }
             ViewBag.Data = aidList;
-            ViewBag.TotalAid = CountTotalAid(aidList);
+            ViewBag.TotalAid = aidList.Sum(p => p.Tutar);
+            ViewBag.CompanyCount = (from aid in aidList
+                                    select aid.Marka).Count();
             return View();
         }
 
-        // total aids counter
-        double CountTotalAid(List<Aid> aids)
-        {
-            double total = 0;
-            foreach (var aid in aids)
-            {
-                total += aid.Tutar;
-            }
-            return total;
-        }
-
+      
         public IActionResult Privacy()
         {
             return View();
